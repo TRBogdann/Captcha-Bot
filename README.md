@@ -1,7 +1,7 @@
 
 # How to run
 
-## No complete exemple (Early sTAGE)
+## No complete exemple (Early Stage)
 You won t be able to run main since you won t have the original env. But you can use ocr (captcha-reader + vocabulary)
 or the action blocks to build your own bot.
 
